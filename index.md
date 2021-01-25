@@ -22,7 +22,7 @@ Topics of interest include, but are not limited to:
 - Synthesis of probabilistic programs
 
 We call for extended abstracts (1-2 pages in pdf format) describing either ongoing research or an overview of past research in the workshop's scope.
-We welcome abstracts covering previously published work. There will be no formal proceedings.
+We welcome abstracts covering work that has been previously published or is currently under review. There will be no formal proceedings.
 
 # Organization
 
