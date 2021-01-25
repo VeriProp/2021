@@ -27,9 +27,7 @@ We welcome abstracts covering work that has been previously published or is curr
 ### Submission
 
 **Submission date**: TBA  
-
 **Notification date**: TBA  
-
 **Submission link**: TBA
 
 # Organization
