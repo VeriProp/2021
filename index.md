@@ -36,7 +36,7 @@ This workshop will be held as a satellite event of the [33st International Confe
 
 - Fredrik Dahlqvist, University College London
 - Sebastian Junges, UC Berkeley
-- Benjamin Kaminski University College London
+- Benjamin Kaminski, University College London
 - Christoph Matheja, ETH Zürich
 
 
