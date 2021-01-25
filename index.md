@@ -24,6 +24,14 @@ Topics of interest include, but are not limited to:
 We call for extended abstracts (1-2 pages in pdf format) describing either ongoing research or an overview of past research in the workshop's scope.
 We welcome abstracts covering work that has been previously published or is currently under review. There will be no formal proceedings.
 
+### Submission
+
+**Submission date**: TBA  
+
+**Notification date**: TBA  
+
+**Submission link**: TBA
+
 # Organization
 
 This workshop will be held as a satellite event of the [33st International Conference on Computer-Aided Verification (CAV)](http://i-cav.org/2021/). The workshop is chaired by:
