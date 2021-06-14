@@ -26,9 +26,9 @@ We welcome abstracts covering work that has been previously published or is curr
 
 ### Submission
 
-**Submission date**: TBA  
-**Notification date**: TBA  
-**Submission link**: TBA
+**Submission date**: Thu July 1  
+**Notification date**: Tue July 6  
+**Submission link**: https://easychair.org/conferences/submissions?a=25830351
 
 # Organization
 
