@@ -39,7 +39,7 @@ We welcome abstracts covering work that has been previously published or is curr
 
 # Organization
 
-This workshop will be held as a satellite event of the [33st International Conference on Computer-Aided Verification (CAV)](http://i-cav.org/2021/). The workshop is chaired by:
+This workshop will be held on July 19th, 2021, as a satellite event of the [33st International Conference on Computer-Aided Verification (CAV)](http://i-cav.org/2021/). The workshop is chaired by:
 
 - Fredrik Dahlqvist, University College London
 - Sebastian Junges, UC Berkeley
