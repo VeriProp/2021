@@ -4,4 +4,5 @@ github:
   is_project_page: false
 
 title: VeriProP
-description: The Workshop on Verification of Probabilistic Programs \n July 19th, co-located with CAV 2021 
+description: |+ The Workshop on Verification of Probabilistic Programs
+                July 19th, co-located with CAV 2021 
