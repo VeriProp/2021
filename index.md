@@ -6,6 +6,13 @@ In part, the lack of tool support can be explained by the fact that research on 
 
 This workshop will provide a forum for research on the automated verification of probabilistic systems that are in some way described by a programming language, with a particular focus on both symbolic methods and compositional approaches.
 
+# Invited Speakers
+
+* Guy van den Broeck
+* Michael Carbin
+* Maria Gorinova
+* Laura Kovacs
+
 # Call for Presentations
 
 VeriProP aims to bring together researchers interested in the tool-supported verification of probabilistic programs, models, and systems. This includes probabilistic model checking, program verification in the presence of a source of randomness, or formal guarantees for statistical machine learning algorithms and artificial intelligence systems.
