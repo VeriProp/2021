@@ -34,7 +34,9 @@ We welcome abstracts covering work that has been previously published or is curr
 ### Submission
 
 **Submission date**: Monday, July 5
+
 **Notification date**: Wednesday, July 7
+
 **Submission link**: [https://easychair.org/my/conference?conf=veriprop2021](https://easychair.org/my/conference?conf=veriprop2021)
 
 # Organization
