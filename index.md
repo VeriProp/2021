@@ -17,7 +17,7 @@ This workshop will provide a forum for research on the automated verification of
 
 VeriProP aims to bring together researchers interested in the tool-supported verification of probabilistic programs, models, and systems. This includes probabilistic model checking, program verification in the presence of a source of randomness, or formal guarantees for statistical machine learning algorithms and artificial intelligence systems.
 
-Topics of interest include, but are not limited to:
+We solicit presentations of 10 minutes. Topics of interest include, but are not limited to:
 
 - Symbolic approaches to the verification of Markov models
 - Exact inference techniques
@@ -35,7 +35,7 @@ We welcome abstracts covering work that has been previously published or is curr
 
 **Submission date**: Thu July 1  
 **Notification date**: Tue July 6  
-**Submission link**: https://easychair.org/conferences/submissions?a=25830351
+**Submission link**: [https://easychair.org/my/conference?conf=veriprop2021]
 
 # Organization
 
