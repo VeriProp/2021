@@ -123,7 +123,7 @@ This workshop will provide a forum for research on the automated verification of
    </td>
    <td>
    </td>
-   <td>Martin Helfrich, Javier Esparza, Philipp Meyer, Antonin Kucera
+   <td>Martin Helfrich, Javier Esparza, Philipp J. Meyer, Antonin Kucera
    </td>
    <td>Verifying Qualitative Liveness Properties of Replicated Systems with Stochastic Scheduling
    </td>
@@ -163,7 +163,7 @@ This workshop will provide a forum for research on the automated verification of
    </td>
    <td>
    </td>
-   <td>Holger Hermanns Michaela Klauck
+   <td>Holger Hermanns, Michaela Klauck
    </td>
    <td>Lab Conditions for Research on Perspicuous Automated Decisions
    </td>
@@ -171,7 +171,7 @@ This workshop will provide a forum for research on the automated verification of
   <tr>
    <td>11:30 - 11:40
    </td>
-   <td>20:30 - 20:40
+   <td>
    </td>
    <td>Daniel Fremont
    </td>
