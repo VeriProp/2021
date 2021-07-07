@@ -6,6 +6,182 @@ In part, the lack of tool support can be explained by the fact that research on 
 
 This workshop will provide a forum for research on the automated verification of probabilistic systems that are in some way described by a programming language, with a particular focus on both symbolic methods and compositional approaches.
 
+# Schedule
+
+
+
+<table>
+  <tr>
+   <th>7:00am PDT
+   </th>
+   <th>16:00 CEST
+   </th>
+   <th> Maria Gorinova
+   </th>
+   <th>Improving inference through program transformations 
+   </th>
+  </tr>
+  <tr>
+   <td>7:30 - 7:40
+   </td>
+   <td>
+   </td>
+   <td>Jules Jacobs
+   </td>
+   <td>Paradoxes of Probabilistic Programming
+   </td>
+  </tr>
+  <tr>
+   <td>7:40 - 7:50
+   </td>
+   <td>
+   </td>
+   <td>Dario Stein, Sam Staton
+   </td>
+   <td>Compositional Verification for Probabilistic Programs with Exact Conditioning
+   </td>
+  </tr>
+  <tr>
+   <td>7:50 - 8:00
+   </td>
+   <td>
+   </td>
+   <td>Alexandru Dinu, Sourav Chakraborty, Kuldeep Meel
+   </td>
+   <td>PPCheck: Verifying the Equivalence of Probabilistic Programs
+   </td>
+  </tr>
+  <tr>
+   <th>8:10am PDT
+   </th>
+   <th>17:10 CEST
+   </th>
+   <th>Michael Carbin
+   </th>
+   <th>TBA
+   </th>
+  </tr>
+  <tr>
+   <td>8:40 - 8:50
+   </td>
+   <td>
+   </td>
+   <td>Kevin Batz
+   </td>
+   <td>Relatively Complete Verification of Probabilistic Programs
+   </td>
+  </tr>
+  <tr>
+   <td>8:50 - 9:00
+   </td>
+   <td>
+   </td>
+   <td>Vineet Rajani, Deepak Garg, Gilles Barthe
+   </td>
+   <td>A type-theory for (amortized) expected cost analysis of higher-order probabilistic programs
+   </td>
+  </tr>
+  <tr>
+   <td>9:00 - 9:10
+   </td>
+   <td>
+   </td>
+   <td>Ankush Das, Di Wang, Jan Hoffmann
+   </td>
+   <td>Probabilistic Resource-Aware Session Types
+   </td>
+  </tr>
+  <tr>
+        <td>Break</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+  <tr>
+   <th>9:30am PDT
+   </th>
+   <th>18:30 CEST
+   </th>
+   <th>Laura Kovacs
+   </th>
+   <th>
+     TBA
+   </th>
+  </tr>
+  <tr>
+   <td>10:00 - 10:10
+   </td>
+   <td>
+   </td>
+   <td>Tobias Winkler
+   </td>
+   <td>Weighted Programs and an Application to Almost-Sure Termination
+   </td>
+  </tr>
+  <tr>
+   <td>10:10 - 10:20
+   </td>
+   <td>
+   </td>
+   <td>Martin Helfrich, Javier Esparza, Philipp Meyer, Antonin Kucera
+   </td>
+   <td>Verifying Qualitative Liveness Properties of Replicated Systems with Stochastic Scheduling
+   </td>
+  </tr>
+  <tr>
+   <td>10:20 - 10:30
+   </td>
+   <td>
+   </td>
+   <td>Syyeda Zainab, Xiang Chen, Yash Dhamija, Maeve Wildes, Qiyi Tang, Franck van Breugel
+   </td>
+   <td>Probabilistic Model Checking of Randomized Java Code
+   </td>
+  </tr>
+  <tr>
+   <th>10:40am PDT
+   </th>
+   <th>19:40 CEST
+   </th>
+   <th>Guy Van den Broeck
+   </th>
+   <th>TBA
+   </th>
+  </tr>
+  <tr>
+   <td>11:10 - 11:20
+   </td>
+   <td>20:10
+   </td>
+   <td>Wen-Chi  Yang, Jean Francois Raskin, Luc De Raedt
+   </td>
+   <td>Lifted Model Checking for Relational MDPs
+   </td>
+  </tr>
+  <tr>
+   <td>11:20 - 11:30
+   </td>
+   <td>
+   </td>
+   <td>Holger Hermanns Michaela Klauck
+   </td>
+   <td>Lab Conditions for Research on Perspicuous Automated Decisions
+   </td>
+  </tr>
+  <tr>
+   <td>11:30 - 11:40
+   </td>
+   <td>20:30 - 20:40
+   </td>
+   <td>Daniel Fremont
+   </td>
+   <td>Scenic: A Language for Scenario Specification and Data Generation
+   </td>
+  </tr>
+</table>
+
+
+
 # Invited Speakers
 
 * Guy van den Broeck
