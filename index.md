@@ -8,7 +8,7 @@ This workshop will provide a forum for research on the automated verification of
 
 # Schedule
 
-
+VeriProp will take place virtually on July 19.
 
 <table>
   <tr>
@@ -214,6 +214,10 @@ We welcome abstracts covering work that has been previously published or is curr
 **Notification date**: Wednesday, July 7
 
 **Submission link**: [https://easychair.org/my/conference?conf=veriprop2021](https://easychair.org/my/conference?conf=veriprop2021)
+
+### Attending
+
+Please register for the workshop via the [official CAV website](http://i-cav.org/2021/attending/).
 
 # Organization
 
