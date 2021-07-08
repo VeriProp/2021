@@ -145,7 +145,7 @@ This workshop will provide a forum for research on the automated verification of
    </th>
    <th>Guy Van den Broeck
    </th>
-   <th>TBA
+   <th>Recent Advances in Discrete Probabilistic Program Inference 
    </th>
   </tr>
   <tr>
