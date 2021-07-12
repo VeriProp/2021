@@ -105,7 +105,7 @@ VeriProp will take place virtually on July 19.
    <th>Laura Kovacs
    </th>
    <th>
-     TBA
+     Algebra-based Analysis of Polynomial Probabilistic Programs
    </th>
   </tr>
   <tr>
