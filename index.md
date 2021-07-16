@@ -58,7 +58,7 @@ VeriProp will take place virtually on July 19.
    </th>
    <th>Michael Carbin
    </th>
-   <th>TBA
+   <th>Programming and reasoning with partial observability
    </th>
   </tr>
   <tr>
