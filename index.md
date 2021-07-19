@@ -66,9 +66,9 @@ VeriProp will take place virtually on July 19.
    </td>
    <td>
    </td>
-   <td>Kevin Batz
+   <td>Wen-Chi  Yang, Jean Francois Raskin, Luc De Raedt
    </td>
-   <td>Relatively Complete Verification of Probabilistic Programs
+   <td>Lifted Model Checking for Relational MDPs
    </td>
   </tr>
   <tr>
@@ -145,7 +145,7 @@ VeriProp will take place virtually on July 19.
    </th>
    <th>Guy Van den Broeck
    </th>
-   <th>TBA
+   <th>Recent Advances in Discrete Probabilistic Program Inference
    </th>
   </tr>
   <tr>
@@ -153,9 +153,9 @@ VeriProp will take place virtually on July 19.
    </td>
    <td>
    </td>
-   <td>Wen-Chi  Yang, Jean Francois Raskin, Luc De Raedt
+   <td>Kevin Batz
    </td>
-   <td>Lifted Model Checking for Relational MDPs
+   <td>Relatively Complete Verification of Probabilistic Programs
    </td>
   </tr>
   <tr>
